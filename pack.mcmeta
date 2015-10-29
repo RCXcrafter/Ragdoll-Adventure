@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "[32x32] By RCXcrafter"
+  },
+  "language": {
+    "dolan_RCX": {
+      "name": "Dolan",
+      "region": "RCX",
+      "bidirectional": false
+    }
+  }
+}
